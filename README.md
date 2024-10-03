@@ -2,6 +2,9 @@
 
 [libalac](https://github.com/mikebrady/alac) CGO bindings for encoding/decoding.
 
+## Original repo
+https://git.gammaspectra.live/S.O.N.G/go-alac
+
 ## Requirements
 ### [libalac](https://github.com/mikebrady/alac)
 ```shell
